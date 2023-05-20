@@ -158,4 +158,16 @@ h2 {
     h2 {
         font-size: 30px;
     }
+    
+    /* White Section */
+    .col-portfolio {
+        margin: 55px;
+        width: 70%;
+        display: block;
+    }
+
+    .float-right {
+        
+        float: none;
+    }
 }
