@@ -145,4 +145,17 @@ h2 {
         font-size: 13px;
         margin-top: 2px;
     }
+    
+    div.section {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    
+    div.grey-section-1 {
+        padding-bottom: 40px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
 }
