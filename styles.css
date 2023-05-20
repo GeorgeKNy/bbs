@@ -125,3 +125,24 @@ h2 {
     font-size: 34px;
     margin: 0;
 }
+
+
+/* ------------------------------ */
+/* ----- Responsive Design ------ */
+/* ------------------------------ */
+@media only screen and (max-width: 767px) {
+    img.cover-profile {
+        height: 90px;
+        margin-top: 75px;
+    }
+
+    h1 {
+        font-size: 38px;
+        margin-top: 6px;
+    }
+    
+    div.cover p {
+        font-size: 13px;
+        margin-top: 2px;
+    }
+}
